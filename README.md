@@ -9,6 +9,8 @@
 - 💞️ I'm looking to collaborate on projects that allow me to grow as a frontend developer and make a place for myself in this industry.
 - 📫 You can contact me on LinkedIn, you can find me as yilmarDev or by email ospina.yilmar@gmail.com
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yilmarDev&theme=radical)
+
 ## Technologies that I use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
