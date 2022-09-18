@@ -11,8 +11,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yilmarDev&theme=radical)
 
-![Github profile](https://github-readme-stats.vercel.app/api?username=yilmarDev&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmarDev&show_icons=true)
 github profile
 
 ## Technologies that I use
