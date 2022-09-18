@@ -10,9 +10,9 @@
 - 📫 You can contact me on LinkedIn, you can find me as yilmarDev or by email ospina.yilmar@gmail.com
 
 #![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yilmarDev&theme=radical)
-
-
 #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmarDev&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmarDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies that I use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
