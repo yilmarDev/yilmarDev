@@ -1,24 +1,34 @@
 <p align="center">
-  👋 <b>Hello, I'm @yilmarDev</b><br>
+  👋 <b>Hi, I'm Yilmar López Ospina</b><br>
   <a href="https://yilmar.dev">Web</a> • 
   <a href="https://www.linkedin.com/in/yilmardev/">LinkedIn</a>
- </p>
- 
-- I'm a Frontend developer with 10 years of experience using HTML5, CSS3, JS and PHP. For three years I've learning about technologies like Laravel, Bootstrap and Tailwind CSS. 
-- 🌱 For a year I have been focused on improving my front-end skills with React JS and new technologies of Frontend development.
-- 💞️ I'm looking to collaborate on projects that allow me to grow as a frontend developer and make a place for myself in this industry.
-- 📫 You can contact me on LinkedIn, you can find me as yilmarDev or by email ospina.yilmar@gmail.com
+</p>
 
-## My statistics
+<h2 align="center">Frontend React Developer</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmarDev&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmarDev)](https://github.com/anuraghazra/github-readme-stats)
-
-## My stack technologies
+<div align="center">
+  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
+
+<p align="center">
+I'm a Frontend developer with 2 years of experience in React and 3 years in JavaScript. I specialize in creating dynamic web applications using these technologies. Additionally, I have proficiency in HTML5, CSS3, Bootstrap, and Laravel versions 6 and 8.
+</p>
+
+<p align="center">
+If you're looking for a skilled Frontend developer with expertise in React, JavaScript, and related technologies, I'd love to contribute to your team's success.
+</p>
+
+<p align="center">
+You can contact me on LinkedIn, you can find me as yilmarDev, have a nice day.
+</p>
+  
+## My statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmarDev)](https://github.com/anuraghazra/github-readme-stats)
