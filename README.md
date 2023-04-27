@@ -27,7 +27,7 @@ If you're looking for a skilled Frontend developer with expertise in React, Java
 </p>
 
 <p align="center">
-You can contact me on LinkedIn, you can find me as yilmarDev, have a nice day.
+  If you'd like to connect, feel free to reach out to me on LinkedIn. You can find me under the username 'yilmarDev'. Have a fantastic day!
 </p>
   
 ## My statistics
