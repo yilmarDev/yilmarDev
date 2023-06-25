@@ -9,6 +9,7 @@
 <div align="center">
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +20,7 @@
 </div>
 
 <p align="center">
-I'm a Frontend developer with 2 years of experience in React and 3 years in JavaScript. I specialize in creating dynamic web applications using these technologies. Additionally, I have proficiency in HTML5, CSS3, Bootstrap, and Laravel versions 6 and 8.
+I'm a Frontend developer with 3 years of experience in JavaScript, 2 of them in React. I specialize in creating dynamic web applications using these technologies. Additionally, I have proficiency in HTML5, CSS3, Bootstrap, and Laravel.
 </p>
 
 <p align="center">
