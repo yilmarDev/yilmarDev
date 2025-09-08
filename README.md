@@ -4,32 +4,37 @@
   <a href="https://www.linkedin.com/in/yilmardev/">LinkedIn</a>
 </p>
 
-<h2 align="center">Frontend React Developer</h2>
+<h2 align="center">Software Developer</h2>
 
 <div align="center">
   
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  
+
 </div>
 
 <p align="center">
-I'm a Frontend developer with 3 years of experience in JavaScript, 2 of them in React. I specialize in creating dynamic web applications using these technologies. Additionally, I have proficiency in HTML5, CSS3, Bootstrap, and Laravel.
+I’m a Web Developer with 5 years of experience building modern applications. Over the last few years, I’ve specialized in JavaScript frameworks like React and Next.js, and I also work with TypeScript and related technologies.
 </p>
 
 <p align="center">
-If you're looking for a skilled Frontend developer with expertise in React, JavaScript, and related technologies, I'd love to contribute to your team's success.
-</p>
+I’m very excited about how AI is transforming the development world, and I’m currently studying and experimenting with these tools to to apply them in real-world projects.</p>
 
 <p align="center">
-  If you'd like to connect, feel free to reach out to me on LinkedIn. You can find me under the username 'yilmarDev'. Have a fantastic day!
+  Feel free to explore my repositories or connect with me on LinkedIn as yilmarDev.
 </p>
-  
-## My statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmarDev)](https://github.com/anuraghazra/github-readme-stats)
+<p></p>
+
+<h2 align="center">My statistics</h2>
+
+| Activity Graph                                                                                                       | Top Languages                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yilmarDev&theme=tokyo-night) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmarDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
