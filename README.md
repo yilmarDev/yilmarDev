@@ -31,7 +31,6 @@ I’m very excited about how AI is transforming the development world, and I’m
 <p align="center">
   Feel free to explore my repositories or connect with me on LinkedIn as yilmarDev.
 </p>
-<p></p>
 
 <h2 align="center">My statistics</h2>
 
