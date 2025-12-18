@@ -1,35 +1,35 @@
 <p align="center">
   👋 <b>Hi, I'm Yilmar López Ospina</b><br>
-  <a href="https://yilmar.dev">Web</a> • 
+  Ibague, Colombia • (317) 849-2851 • yilmardev@gmail.com<br>
   <a href="https://www.linkedin.com/in/yilmardev/">LinkedIn</a>
 </p>
 
-<h2 align="center">Software Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 <div align="center">
   
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 <p align="center">
-I’m a Web Developer with 5 years of experience building modern applications. Over the last few years, I’ve specialized in JavaScript frameworks like React and Next.js, and I also work with TypeScript and related technologies.
+Full Stack Developer with 5+ years of experience building and evolving production web platforms used by internal teams and external stakeholders. I've contributed to complex systems such as ERP platforms, distributed services, and data-driven applications, taking ownership across both frontend and backend layers.
 </p>
 
 <p align="center">
-I’m very excited about how AI is transforming the development world, and I’m currently studying and experimenting with these tools to to apply them in real-world projects.</p>
+In my current role, I design and maintain backend services that support complex workflows, mobile applications, and AI-assisted features, while also collaborating closely with frontend and product teams to deliver cohesive solutions. I'm comfortable working in distributed environments and adapting to evolving requirements.
+</p>
 
 <p align="center">
-  Feel free to explore my repositories or connect with me on LinkedIn as yilmarDev.
+I enjoy working on systems that require clear architecture, well-defined interfaces, and measurable business impact. I'm particularly interested in applying AI-assisted capabilities to improve productivity and user experience in real-world applications.
 </p>
 
 <h2 align="center">My statistics</h2>
