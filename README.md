@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-Full Stack Developer with 5+ years of experience building and evolving production web platforms used by internal teams and external stakeholders. I've contributed to complex systems such as ERP platforms, distributed services, and data-driven applications, taking ownership across both frontend and backend layers.
+Full Stack Developer with 7+ years of experience building and evolving production web platforms used by internal teams and external stakeholders. I've contributed to complex systems such as ERP platforms, distributed services, and data-driven applications, taking ownership across both frontend and backend layers.
 </p>
 
 <p align="center">
