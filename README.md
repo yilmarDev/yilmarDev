@@ -1,7 +1,24 @@
-# 👋 Hi, I'm Yilmar Lopez Ospina
+<div align="center">
+  <p align="center">
+  👋 <b>Hi, I'm Yilmar López Ospina</b><br>
+  Ibague, Colombia • (317) 849-2851 • yilmardev@gmail.com<br>
+  <a href="https://www.linkedin.com/in/yilmardev/">LinkedIn</a>
+</p>
+
+<p align="center">
+Full Stack Developer with 7+ years of experience building and evolving production web platforms used by internal teams and external stakeholders. I've contributed to complex systems such as ERP platforms, distributed services, and data-driven applications, taking ownership across both frontend and backend layers.
+</p>
+
+<p align="center">
+In my current role, I design and maintain backend services that support complex workflows, mobile applications, and AI-assisted features, while also collaborating closely with frontend and product teams to deliver cohesive solutions. I'm comfortable working in distributed environments and adapting to evolving requirements.
+</p>
+
+<p align="center">
+I enjoy working on systems that require clear architecture, well-defined interfaces, and measurable business impact. I'm particularly interested in applying AI-assisted capabilities to improve productivity and user experience in real-world applications.
+</p>
+</div>
 
 <div align="center">
-
 ## 🚀 Senior Full Stack Developer | AI Engineering Specialist
 
 Building production-grade web platforms with **Python/FastAPI** + **React/TypeScript** + **AI integration**.
@@ -74,11 +91,7 @@ Currently architecting **AI-powered ERP systems** serving 10,000+ users. Availab
 
 
 
-<p align="center">
-  👋 <b>Hi, I'm Yilmar López Ospina</b><br>
-  Ibague, Colombia • (317) 849-2851 • yilmardev@gmail.com<br>
-  <a href="https://www.linkedin.com/in/yilmardev/">LinkedIn</a>
-</p>
+
 
 <h2 align="center">Full Stack Developer</h2>
 
@@ -96,17 +109,7 @@ Currently architecting **AI-powered ERP systems** serving 10,000+ users. Availab
 
 </div>
 
-<p align="center">
-Full Stack Developer with 7+ years of experience building and evolving production web platforms used by internal teams and external stakeholders. I've contributed to complex systems such as ERP platforms, distributed services, and data-driven applications, taking ownership across both frontend and backend layers.
-</p>
 
-<p align="center">
-In my current role, I design and maintain backend services that support complex workflows, mobile applications, and AI-assisted features, while also collaborating closely with frontend and product teams to deliver cohesive solutions. I'm comfortable working in distributed environments and adapting to evolving requirements.
-</p>
-
-<p align="center">
-I enjoy working on systems that require clear architecture, well-defined interfaces, and measurable business impact. I'm particularly interested in applying AI-assisted capabilities to improve productivity and user experience in real-world applications.
-</p>
 
 <h2 align="center">My statistics</h2>
 
